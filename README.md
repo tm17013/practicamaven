@@ -1,3 +1,3 @@
  #
  practicamaven 
-abrir .rar para ver practica maven calculadora
+descargar .rar  en netbeans para ver practica maven calculadora
